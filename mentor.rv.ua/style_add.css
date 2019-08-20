@@ -1,0 +1,37 @@
+/*Створено Загоровським Романом Васильовичем - 2019 рік*/
+/*MENTOR.RV.UA*/
+---------------------------------------------------------------------
+html, 
+body{margin:1% auto;
+	width:400px; 
+	background-color: #fff;}
+	
+
+fieldset{
+	color:black;
+	background-color: #ddd;
+	text-decoration:none;
+	text-transform:uppercase;
+	border:1px solid blue;
+    -moz-border-radius:8px;
+    -webkit-border-radius:8px;	
+    border-radius:8px;	
+}
+
+textarea{
+	border:1px solid blue;
+	-moz-border-radius:8px;
+    -webkit-border-radius:8px;	
+    border-radius:8px;	
+}
+
+textarea:hover {
+	border-color:silver;
+}
+
+buttom {
+	-moz-border-radius:8px;
+    -webkit-border-radius:8px;	
+    border-radius:8px;
+}
+
